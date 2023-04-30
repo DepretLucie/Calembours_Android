@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Projet</string>
+
+    <!-- Page main -->
+    <string-array name="trieParNotes">
+        <item>Par défaut</item>
+        <item>Trier par ordre croissant</item>
+        <item>Trier par ordre décroissant</item>
+    </string-array>
+    <string name="precedent">Précédent</string>
+    <string name="suivant">Suivant</string>
+
+    <!-- Page créer calembours -->
+    <string name="saisir">Ajouter un calembour</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="annuler">Annuler</string>
+
+    <!-- Page statistique -->
+    <string name="statistique">Statistiques</string>
+        <string name="nbVue">Nombre de vue</string>
+    <string name="moyNotes">Moyenne des notes</string>
+
+    <!-- Page vu -->
+    <string name="vu">Historique</string>
+
+    <!-- Page noter calembours -->
+    <string name="afficher">Afficher la punchline</string>
+    <string name="type">Type : </string>
+    <string name="question">Question : </string>
+    <string name="reponse">Réponse : </string>
+    <string name="retour">Retour</string>
+
+    <!-- Pop up -->
+    <string name="elVus">Désactiver les calembours vus</string>
+    <string name="filtre">Filtrer vos recherches</string>
+</resources>
